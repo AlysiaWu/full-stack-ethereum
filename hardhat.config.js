@@ -33,7 +33,7 @@ module.exports = {
   },
   networks: {
     hardhat: {
-      chainId: 1337,
+      chainId: 1338,
     },
     // ropsten: {
     //   url: "https://ropsten.infura.io/v3/projectid",
